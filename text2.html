@@ -33,7 +33,7 @@
     <h1>الاختبار التحصيلي لمهارات البرمجة بلغة PHP (اختبار إلكتروني)</h1>
     <p class="lead">أدخل بياناتك أولاً ثم أجب على جميع الأسئلة.</p>
 
-    <div id="timer" class="timer">الوقت المتبقي: 15:00</div>
+    <div id="timer" class="timer">الوقت المتبقي: 45:00</div>
 
     <form id="quizForm">
       <div class="student-info">
@@ -58,7 +58,7 @@
 
 <script>
 // --------------------- المؤقت ---------------------
-let duration = 15 * 60; // 15 دقيقة
+let duration = 45 * 60; // 15 دقيقة
 let timerDisplay = document.getElementById('timer');
 let countdown = setInterval(()=>{
   let minutes = Math.floor(duration / 60);
@@ -345,5 +345,6 @@ document.getElementById('submitBtn').addEventListener('click',()=>{
 </script>
 </body>
 </html>
+
 
 
