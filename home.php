@@ -51,8 +51,8 @@
     <div class="header_resize">
       <div class="menu_nav" style="width: 432px">
       <ul style="width: 465px">
-          <li class="active"><a href="index.php"><span class="auto-style50">الرئيسية</span></a></li>
-          <li class="active"><a href="insttest.php"><span  class="auto-style50">الاختبار البعدى</span></a></li>
+          <li class="active"><a href="index.HTML"><span class="auto-style50">الرئيسية</span></a></li>
+          <li class="active"><a href="endt.html"><span  class="auto-style50">الاختبار البعدى</span></a></li>
 
         </ul>      </div>
           <!-------- home --> 
@@ -123,23 +123,23 @@
 
 <ul class="menuBuild">
 
-  <li id="menu1"><a href="introduction.php">أهداف المقرر</a>
+  <li id="menu1"><a href="">أهداف المقرر</a>
   
   </li>
   
-  <li id="menu2"><a href="instraction.php">التعليمات</a>
+  <li id="menu2"><a href="instraction.html">التعليمات</a>
 
   
   </li>
   
-  <li id="menu3"><a href="modless.php">المحتوى العلمى</a>
+  <li id="menu3"><a href="modless.html">المحتوى العلمى</a>
     
   </li>
   
-  <li id="menu4"><a href="insttest.php">الاختبار البعدى</a>
+  <li id="menu4"><a href="endt.html">الاختبار البعدى</a>
    
   </li>
-   <li id="menu5"><a href="connectus.php">تواصل معنا</a>
+   <li id="menu5"><a href="connectus.html">تواصل معنا</a>
   
   </li>
 </ul>
@@ -303,3 +303,4 @@
   <! <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>>
 </body>
 </html>
+
